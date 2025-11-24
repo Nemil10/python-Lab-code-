@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 22 11:42:00 2025
-
-@author: Meet
-"""
-
 import pandas as pd
 import numpy as np
 data = {
@@ -24,4 +17,5 @@ print("\n" + "="*50 + "\n")
 print("--- Column Data Types ---")
 print(df.dtypes)
 print("\n" + "="*50 + "\n")
+
 
